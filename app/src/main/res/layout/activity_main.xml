@@ -51,7 +51,7 @@
                 android:drawableRight="@drawable/ic_seta_direita"
                 android:drawablePadding="-40dp"
                 android:paddingRight="16dp"
-                android:text="ENTRAR"
+                android:text="CONSULTAR"
                 android:textColor="@color/white" />
 
             <LinearLayout
